@@ -1,3 +1,6 @@
 spring:
   application:
     name: notificationFSSP
+
+server:
+  port: 8002
